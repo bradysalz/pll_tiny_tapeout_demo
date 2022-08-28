@@ -7,6 +7,28 @@ Super short and sweet tapeout. Two key blocks in here:
 
 Planning on implementing the rest on a breadboard!
 
+## Pinout
+
+**INPUT**
+* `b0`:
+* `b1`: Reference Clock In
+* `b2`:
+* `b3`: Divider Select[0]
+* `b4`: Divider Select[1]
+* `b5`: Divider Select[2]
+* `b6`: Feedback Clock In
+* `b7`:
+
+**OUTPUT**
+* `b0`
+* `b1`: PLL "Up" Signal
+* `b2`: PLL "Down" Signal
+* `b3`: PLL Reset (for debug only)
+* `b4`
+* `b5`: Feedback Clock Out
+* `b6`
+* `b7`
+
 =========================
 
 #  Cloned README Below
