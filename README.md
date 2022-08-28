@@ -1,3 +1,16 @@
+# Tiny PLL Tapeout
+
+Super short and sweet tapeout. Two key blocks in here:
+
+1. PLL "Controller" (really just phase and frequency detector)
+2. Divider (/1 to /128, pow by 2)
+
+Planning on implementing the rest on a breadboard!
+
+=========================
+
+#  Cloned README Below
+
 ![](../../workflows/wokwi/badge.svg)
 
 Go to https://tinytapeout.com for instructions!
